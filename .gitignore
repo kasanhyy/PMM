@@ -1,0 +1,11 @@
+.project
+.settings/
+.prefs
+.pydevproject
+.idea/
+.idea
+.Ds_Store
+.cache
+*.pyc
+*.html
+*.xlm
